@@ -106,15 +106,15 @@ http://localhost:3000
 
 ### Game Board
 
-![ChessBoard](/images/chessboard.png)
+![ChessBoard](/public/images/chessboard.png)
 
 ### Possible Move
 
-![possiblemove](/images/possible-move.png)
+![possiblemove](/public/images/possible-move.png)
 
 ### Checkmate
 
-![Checkmate](/images/checkmate.png)
+![Checkmate](/public/images/checkmate.png)
 
 ## 👨‍💻 Author
 
