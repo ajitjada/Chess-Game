@@ -102,6 +102,20 @@ http://localhost:3000
 
 ---
 
+## 📸 Screenshots
+
+### Game Board
+
+![ChessBoard](/images/chessboard.png)
+
+### Possible Move
+
+![possiblemove](/images/possible-move.png)
+
+### Checkmate
+
+![Checkmate](/images/checkmate.png)
+
 ## 👨‍💻 Author
 
 **Ajit Jada**
